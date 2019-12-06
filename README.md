@@ -1,6 +1,9 @@
 # SmartClass
 
+
 ---UNFINISHED---
+
+**This project was made in my Third year of University
 
 Class Automation System
 
