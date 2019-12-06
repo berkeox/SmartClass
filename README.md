@@ -21,4 +21,4 @@ Unfinished Student Form
 
 
 Icons that are used in this application are made by srip from https://www.flaticon.com
-s
+
