@@ -13,10 +13,10 @@ namespace Smart_Class
     public partial class formLogin : Form
     {
         Point lastPoint;
+    
         public formLogin()
         {
             InitializeComponent();
-             
         }
 
 
@@ -104,11 +104,42 @@ namespace Smart_Class
 
         private void buttonLogin_Click(object sender, EventArgs e)
         {
-            this.Hide();
-            formStudent f = new formStudent();
-            f.Show();
+            if(!radioButtonTeacher.Checked && !radioButtonStudent.Checked)
+            {
+                MessageBox.Show("Giriş türünü seçiniz!", "Giriş türü seçilmedi!", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                return;
+            }
+            else if(radioButtonStudent.Checked && DBOperations.CheckStudent(textBoxUsername.Text, textBoxPassword.Text))
+            {
+               
+                    this.Hide();
+                    formStudent f = new formStudent();
+                    f.Show();
+                
+                
+            }
+            else if (DBOperations.CheckTeacher(textBoxUsername.Text, textBoxPassword.Text))
+            {
+              
+                
+                    this.Hide();
+                    formTeacher f = new formTeacher();
+                    f.Show();
+                
+               
+            }
+           
 
            
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            formTeacher f = new formTeacher();
+            f.Show();
+        }
+
+        
     }
 }

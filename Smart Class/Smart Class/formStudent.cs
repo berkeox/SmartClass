@@ -14,6 +14,7 @@ namespace Smart_Class
     {
 
         Point lastPoint;
+        Student student = Student.GetInstance();
 
         public formStudent()
         {
@@ -28,6 +29,9 @@ namespace Smart_Class
         private void buttonMinimize_Click(object sender, EventArgs e)
         {
             this.WindowState = FormWindowState.Minimized;
+           
+            
+           
         }
 
      
@@ -44,6 +48,19 @@ namespace Smart_Class
                 this.Left += e.X - lastPoint.X;
                 this.Top += e.Y - lastPoint.Y;
             }
+        }
+
+        private void buttonProfileExit_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            formLogin f = new formLogin();
+            f.Show();
+        }
+
+        private void formStudent_Load(object sender, EventArgs e)
+        {
+            lblStudentName.Text = student.name + " " + student.surname;
+            lblStudentMail.Text = student.email;
         }
     }
 }
