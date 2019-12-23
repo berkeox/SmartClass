@@ -1,0 +1,95 @@
+C:\Users\Berke\source\repos\Smart Class\Smart Class\bin\Debug\Smart Class.exe.config
+C:\Users\Berke\source\repos\Smart Class\Smart Class\bin\Debug\Smart Class.exe
+C:\Users\Berke\source\repos\Smart Class\Smart Class\bin\Debug\Smart Class.pdb
+C:\Users\Berke\source\repos\Smart Class\Smart Class\obj\Debug\Smart Class.csprojAssemblyReference.cache
+C:\Users\Berke\source\repos\Smart Class\Smart Class\obj\Debug\Smart_Class.formLogin.resources
+C:\Users\Berke\source\repos\Smart Class\Smart Class\obj\Debug\Smart_Class.Properties.Resources.resources
+C:\Users\Berke\source\repos\Smart Class\Smart Class\obj\Debug\Smart Class.csproj.GenerateResource.cache
+C:\Users\Berke\source\repos\Smart Class\Smart Class\obj\Debug\Smart Class.csproj.CopyComplete
+C:\Users\Berke\source\repos\Smart Class\Smart Class\obj\Debug\Smart Class.exe
+C:\Users\Berke\source\repos\Smart Class\Smart Class\obj\Debug\Smart Class.pdb
+C:\Users\Berke\source\repos\Smart Class D\Smart Class\obj\Debug\Smart Class.csprojAssemblyReference.cache
+C:\Users\Berke\source\repos\Smart Class D\Smart Class\obj\Debug\Smart_Class.formLogin.resources
+C:\Users\Berke\source\repos\Smart Class D\Smart Class\obj\Debug\Smart_Class.Properties.Resources.resources
+C:\Users\Berke\source\repos\Smart Class D\Smart Class\obj\Debug\Smart Class.csproj.GenerateResource.cache
+C:\Users\Berke\source\repos\Smart Class D\Smart Class\obj\Debug\Smart Class.exe
+C:\Users\Berke\source\repos\Smart Class D\Smart Class\obj\Debug\Smart Class.pdb
+C:\Users\Berke\source\repos\Smart Class D\Smart Class\bin\Debug\Smart Class.exe.config
+C:\Users\Berke\source\repos\Smart Class D\Smart Class\bin\Debug\Smart Class.exe
+C:\Users\Berke\source\repos\Smart Class D\Smart Class\bin\Debug\Smart Class.pdb
+C:\Users\Berke\source\repos\Smart Class D\Smart Class\obj\Debug\Smart Class.csproj.CopyComplete
+C:\Users\Berke\source\repos\Smart Class D\Smart Class\obj\Debug\Smart_Class.formStudent.resources
+C:\Users\Berke\source\repos\Smart Class\Smart Class\obj\Debug\Smart_Class.formStudent.resources
+C:\Users\Beyza\Desktop\Smart Class\Smart Class\obj\Debug\Smart Class.csprojAssemblyReference.cache
+C:\Users\Beyza\Desktop\Smart Class\Smart Class\obj\Debug\Smart Class.exe
+C:\Users\Beyza\Desktop\Smart Class\Smart Class\obj\Debug\Smart Class.pdb
+C:\Users\Beyza\Desktop\Smart Class\Smart Class\bin\Debug\Smart Class.exe.config
+C:\Users\Beyza\Desktop\Smart Class\Smart Class\bin\Debug\Smart Class.exe
+C:\Users\Beyza\Desktop\Smart Class\Smart Class\bin\Debug\Smart Class.pdb
+C:\Users\Beyza\Desktop\Smart Class\Smart Class\obj\Debug\Smart_Class.formLogin.resources
+C:\Users\Beyza\Desktop\Smart Class\Smart Class\obj\Debug\Smart_Class.formStudent.resources
+C:\Users\Beyza\Desktop\Smart Class\Smart Class\obj\Debug\Smart_Class.formTeacher.resources
+C:\Users\Beyza\Desktop\Smart Class\Smart Class\obj\Debug\Smart_Class.Properties.Resources.resources
+C:\Users\Beyza\Desktop\Smart Class\Smart Class\obj\Debug\Smart Class.csproj.GenerateResource.cache
+C:\Users\Beyza\Desktop\Smart Class\Smart Class\obj\Debug\Smart Class.csproj.CopyComplete
+C:\Users\Berke\Desktop\Smart Class\Smart Class\bin\Debug\Smart Class.exe.config
+C:\Users\Berke\Desktop\Smart Class\Smart Class\bin\Debug\Smart Class.exe
+C:\Users\Berke\Desktop\Smart Class\Smart Class\bin\Debug\Smart Class.pdb
+C:\Users\Berke\Desktop\Smart Class\Smart Class\obj\Debug\Smart Class.csprojAssemblyReference.cache
+C:\Users\Berke\Desktop\Smart Class\Smart Class\obj\Debug\Smart_Class.formLogin.resources
+C:\Users\Berke\Desktop\Smart Class\Smart Class\obj\Debug\Smart_Class.formStudent.resources
+C:\Users\Berke\Desktop\Smart Class\Smart Class\obj\Debug\Smart_Class.formTeacher.resources
+C:\Users\Berke\Desktop\Smart Class\Smart Class\obj\Debug\Smart_Class.Properties.Resources.resources
+C:\Users\Berke\Desktop\Smart Class\Smart Class\obj\Debug\Smart Class.csproj.GenerateResource.cache
+C:\Users\Berke\Desktop\Smart Class\Smart Class\obj\Debug\Smart Class.csproj.CopyComplete
+C:\Users\Berke\Desktop\Smart Class\Smart Class\obj\Debug\Smart Class.exe
+C:\Users\Berke\Desktop\Smart Class\Smart Class\obj\Debug\Smart Class.pdb
+C:\Users\Berke\source\repos\DAT PROJE VERS\Smart Class\Smart Class\bin\Debug\Smart Class.exe.config
+C:\Users\Berke\source\repos\DAT PROJE VERS\Smart Class\Smart Class\bin\Debug\Smart Class.exe
+C:\Users\Berke\source\repos\DAT PROJE VERS\Smart Class\Smart Class\bin\Debug\Smart Class.pdb
+C:\Users\Berke\source\repos\DAT PROJE VERS\Smart Class\Smart Class\obj\Debug\Smart Class.csprojAssemblyReference.cache
+C:\Users\Berke\source\repos\DAT PROJE VERS\Smart Class\Smart Class\obj\Debug\Smart_Class.formLogin.resources
+C:\Users\Berke\source\repos\DAT PROJE VERS\Smart Class\Smart Class\obj\Debug\Smart_Class.formStudent.resources
+C:\Users\Berke\source\repos\DAT PROJE VERS\Smart Class\Smart Class\obj\Debug\Smart_Class.formTeacher.resources
+C:\Users\Berke\source\repos\DAT PROJE VERS\Smart Class\Smart Class\obj\Debug\Smart_Class.Properties.Resources.resources
+C:\Users\Berke\source\repos\DAT PROJE VERS\Smart Class\Smart Class\obj\Debug\Smart Class.csproj.GenerateResource.cache
+C:\Users\Berke\source\repos\DAT PROJE VERS\Smart Class\Smart Class\obj\Debug\Smart Class.csproj.CopyComplete
+C:\Users\Berke\source\repos\DAT PROJE VERS\Smart Class\Smart Class\obj\Debug\Smart Class.exe
+C:\Users\Berke\source\repos\DAT PROJE VERS\Smart Class\Smart Class\obj\Debug\Smart Class.pdb
+C:\Users\Berke\source\repos\DAT PROJE VERS\Smart Class\Smart Class\bin\Debug\DevExpress.Data.v19.2.dll
+C:\Users\Berke\source\repos\DAT PROJE VERS\Smart Class\Smart Class\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+C:\Users\Berke\source\repos\DAT PROJE VERS\Smart Class\Smart Class\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+C:\Users\Berke\source\repos\DAT PROJE VERS\Smart Class\Smart Class\bin\Debug\DevExpress.Utils.v19.2.dll
+C:\Users\Berke\source\repos\DAT PROJE VERS\Smart Class\Smart Class\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+C:\Users\Berke\source\repos\DAT PROJE VERS\Smart Class\Smart Class\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+C:\Users\Berke\source\repos\DAT PROJE VERS\Smart Class\Smart Class\bin\Debug\DevExpress.Data.v19.2.xml
+C:\Users\Berke\source\repos\DAT PROJE VERS\Smart Class\Smart Class\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+C:\Users\Berke\source\repos\DAT PROJE VERS\Smart Class\Smart Class\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+C:\Users\Berke\source\repos\DAT PROJE VERS\Smart Class\Smart Class\bin\Debug\DevExpress.Utils.v19.2.xml
+C:\Users\Berke\source\repos\DAT PROJE VERS\Smart Class\Smart Class\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+C:\Users\Berke\source\repos\DAT PROJE VERS\Smart Class\Smart Class\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+C:\Users\Berke\source\repos\DAT PROJE VERS\Smart Class\Smart Class\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+C:\Users\Berke\source\repos\DAT PROJE VERS\Smart Class\Smart Class\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+C:\Users\Berke\source\repos\DAT PROJE VERS\Smart Class\Smart Class\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+C:\Users\Berke\source\repos\DAT PROJE VERS\Smart Class\Smart Class\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+C:\Users\Berke\source\repos\DAT PROJE VERS\Smart Class\Smart Class\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\Berke\source\repos\DAT PROJE VERS\Smart Class\Smart Class\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\Berke\source\repos\DAT PROJE VERS\Smart Class\Smart Class\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\Berke\source\repos\DAT PROJE VERS\Smart Class\Smart Class\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\Berke\source\repos\DAT PROJE VERS\Smart Class\Smart Class\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\Berke\source\repos\DAT PROJE VERS\Smart Class\Smart Class\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\Berke\source\repos\DAT PROJE VERS\Smart Class\Smart Class\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\Berke\source\repos\DAT PROJE VERS\Smart Class\Smart Class\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\Berke\source\repos\DAT PROJE VERS\Smart Class\Smart Class\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+C:\Users\Berke\source\repos\DAT PROJE VERS\Smart Class\Smart Class\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+C:\Users\Berke\source\repos\DAT PROJE VERS\Smart Class\Smart Class\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+C:\Users\Berke\source\repos\DAT PROJE VERS\Smart Class\Smart Class\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+C:\Users\Berke\source\repos\DAT PROJE VERS\Smart Class\Smart Class\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\Berke\source\repos\DAT PROJE VERS\Smart Class\Smart Class\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\Berke\source\repos\DAT PROJE VERS\Smart Class\Smart Class\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\Berke\source\repos\DAT PROJE VERS\Smart Class\Smart Class\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\Berke\source\repos\DAT PROJE VERS\Smart Class\Smart Class\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\Berke\source\repos\DAT PROJE VERS\Smart Class\Smart Class\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\Berke\source\repos\DAT PROJE VERS\Smart Class\Smart Class\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\Berke\source\repos\DAT PROJE VERS\Smart Class\Smart Class\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\Berke\source\repos\DAT PROJE VERS\Smart Class\Smart Class\obj\Debug\Smart Class.exe.licenses
