@@ -10,13 +10,13 @@ Class Automation System
 
 Login form
 
-![](Images/Login%20Form.png)
+![](Images/LoginForm.png)
 
 
 
-Unfinished Student Form
+Student Form
 
-![](Images/Student%20Form%20Unfinished.png)
+![](Images/StudentForm.png)
 
 
 
